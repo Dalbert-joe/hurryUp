@@ -1,5 +1,5 @@
 # 🚌 HURRY UP — Chennai MTC Optimizer
-### SIH 2025 Finalist | Real-time Bus Route Optimizer
+### Real-time Bus Route Optimizer
 
 ---
 
